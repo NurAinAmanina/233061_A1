@@ -1,6 +1,15 @@
 
 import java.io.File;
 
+/**
+ Semester: A171 
+ * Course: STIW3054 
+ * Group: A 
+ * Task: Assignment 1 
+ * Matric: 233061
+ * Name: NurAinAmanina
+ */
+
 public class FileCount {
     
     public static int fc(){
